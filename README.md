@@ -4,4 +4,4 @@ Estado del Proyecto: En construcción
 
 Para ejecutar el sistem, debes poner:
 
-    npm install react
+    '''npm install react´´´
